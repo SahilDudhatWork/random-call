@@ -1,0 +1,518 @@
+Settings Hi ! Here some our recommendations to get the best out of BLACKBOX: Be as clear as possible End the question in what language you want the answer to be,
+e.g: ‘connect to mongodb in python or you can just Go to Blackbox Here are some suggestion (choose one): Write a function that reads data from a json file How to delete docs from mongodb in phyton Connect to mongodb in nodejs Ask any coding question send refresh Blackbox AI Chat is in beta and Blackbox is not liable for the content generated. By using Blackbox,
+you acknowledge that you agree to agree to Blackbox's Terms and Privacy Policy
+ body {
+    background: #f1f1f1;
+}
+
+.navbar-default {
+    background: #494949;
+}
+
+.sideMenu a {
+    color: #fff;
+    padding: 4px;
+    display: block;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.sideMenu a:hover {
+    background: #fff;
+}
+
+.navbar {
+    border: 0;
+    border-radius: 0;
+}
+
+.navbar-default .navbar-nav>li>a:focus,
+.navbar-default .navbar-nav>li>a:hover {
+    color: #fff;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: #fff;
+}
+
+.navbar-default .navbar-nav>li>a:hover {
+    color: #fff;
+}
+
+.navbar-default .navbar-brand {
+    color: #fff;
+}
+
+/* Cam Chat, Text, Audio*/
+.social-space {
+    background: #c0c0c0;
+    padding: 10px;
+}
+
+.social-space h3,
+.social-space p {
+    color: #000;
+}
+
+/* End  */
+.img-pos {
+    margin-top: 38px;
+}
+
+.footer {
+    background: #454545;
+    padding: 5px 0;
+}
+
+.white-txt {
+    color: #fff;
+}
+
+.footer-menu a {
+    color: #fff;
+}
+
+.navbar-brand>img {
+    display: block;
+    position: relative;
+    top: -11px;
+}
+
+.heading-bg {
+    border-bottom: #ddd solid 1px;
+    padding: 10px;
+}
+
+.box {
+    border: #ddd solid 1px;
+    cursor: pointer;
+    margin-bottom: 10px;
+}
+
+.box-text {
+    border-top: #ddd solid 1px;
+    padding: 10px;
+}
+
+.box-text h3 {
+    padding: 0;
+    margin: 0px;
+    font-size: 14px;
+    color: #000;
+    text-decoration: none;
+}
+
+.box-img {
+    padding: 5px;
+}
+
+.box:hover .box-text {
+    background: #f7f7f7;
+    color: #000;
+    text-decoration: none;
+}
+
+@media only screen and (min-width: 650px) {
+    #mchat {
+        display: none;
+    }
+}
+
+@media only screen and (max-width: 650px) {
+    #webchat {
+        display: none;
+    }
+}
+
+.pag-nation {
+    display: block;
+    float: left;
+    margin-left: 20px;
+    font-family: "Segoe UI Web Light", "Segoe UI Light", "Segoe UI Web Regular", "Segoe UI", "Segoe UI Symbol", "Helvetica Neue", Arial;
+}
+
+.current,
+.pag-nation a:hover {
+    background: #444;
+    border: 1px solid #222;
+    color: #fff !important;
+    text-shadow: 0 1px 0 #333;
+    padding: 0px 10px 4px 9px;
+    margin-right: 4px;
+}
+
+.pag-nation a {
+    padding: 0px 10px 4px 9px;
+    border: 1px solid #ddd;
+    color: #555 !important;
+    margin-right: 4px;
+    background: #f2f2f2;
+    text-shadow: 0 1px 0 #fff;
+    text-decoration: none !important;
+}
+
+.pag-cnt {
+    float: right;
+    font-family: 'Segoe UI', 'Segoe UI Web Regular', 'Segoe UI Symbol', 'Helvetica Neue', 'BBAlpha Sans', 'S60 Sans', Arial, sans-serif;
+    font-size: 14px;
+    color: #A5A5A5;
+}
+
+.bglight {
+    background-color: #ebece7;
+    color: #595b5f;
+}
+
+.padding22 {
+    padding: 22px;
+}
+
+.text-white {
+    color: #fff;
+}
+
+.bg-main-ab {
+    display: block;
+    position: relative;
+    /*background: #93b1c5;*/
+}
+
+.hd-mn {
+    display: block;
+    padding: 10px;
+    /*color: #2f3e48;*/
+
+    color: #fff;
+    color: #4f5256;
+}
+
+.pr-mn {
+    color: #f0f5f9;
+    color: #74777b;
+    font-size: 16px;
+}
+
+.tips-bg {
+    min-height: 20px;
+    padding: 19px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    background-color: #f5f5f5;
+    border: 1px solid #e3e3e3;
+    border-radius: 4px;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, .05);
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, .05);
+}
+
+.main-ht h2 {
+    font-size: 20px;
+}
+
+.main-ht h3 {
+    font-size: 18px;
+}
+
+.tabz {
+    display: block;
+    position: relative;
+    text-align: center;
+    padding: 10px;
+}
+
+.tabz i {
+    font-size: 54px;
+    color: #db5a5a;
+}
+
+.tabz h3 {
+    padding: 0;
+    font-size: 18px;
+    font-weight: bold;
+    color: #db5a5a;
+}
+
+.tabz p {
+    padding-top: 0.325em;
+    /*color: #bdc2c9;*/
+
+    height: 190px;
+}
+
+.small-ps {
+    font-size: 14px;
+    color: #333;
+}
+
+.page-content {
+    display: block;
+    margin-top: 30px;
+    border-top: 1px dashed #555;
+    padding-top: 10px;
+    font-size: 16px;
+}
+
+.page-content h4 {
+    font-size: 18px;
+}
+
+.frame-room {
+    display: block;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.herald-post-thumbnail {
+    position: relative;
+    text-align: center;
+    background-color: rgba(0, 0, 0, .05);
+}
+
+.header-trending .herald-post-thumbnail {
+    margin-right: 10px;
+    margin-bottom: 0;
+    background-color: transparent;
+    -webkit-box-flex: 0;
+    -webkit-flex: 0 0 21%;
+    -ms-flex: 0 0 21%;
+    flex: 0 0 21%;
+    max-width: 21%;
+}
+
+.header-trending .h6 {
+    -webkit-box-flex: 0;
+    -webkit-flex: 0 0 75%;
+    -ms-flex: 0 0 75%;
+    flex: 0 0 75%;
+    max-width: 75%;
+    margin: 0;
+}
+
+.header-trending a {
+    font-weight: 400;
+    display: block;
+    text-align: left;
+}
+
+.header-trending a {
+    color: #666666;
+    text-decoration: none;
+    max-height: 53px;
+    min-height: 37px;
+    font-size: 13px;
+    display: -webkit-box;
+    line-height: 16px;
+    text-transform: capitalize;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+}
+
+.header-trending a:hover {
+    color: #111111;
+}
+
+.header-trending .owl-item img,
+.header-trending img {
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+    -o-object-fit: cover;
+    object-fit: cover;
+}
+
+.d-flex {
+    display: flex;
+}
+
+.herald-post-thumbnail {
+    position: relative;
+    text-align: center;
+    background-color: rgba(0, 0, 0, .05);
+}
+
+.herald-post-thumbnail a {
+    text-decoration: none;
+    color: #0288d1;
+}
+
+.herald-post-thumbnail a img {
+    max-width: 100%;
+}
+
+.entry-header {
+    margin-top: 12px;
+    margin-bottom: 0;
+}
+
+h2.entry-title.h5 {
+    text-align: center;
+    color: #000;
+}
+
+.entry-title a {
+    color: #222;
+}
+
+.image-header-blog {
+    overflow: hidden;
+}
+
+.image-header-blog img {
+    width: 100%;
+}
+
+.title-blog {
+    margin: 10px 0;
+    padding: 5px;
+}
+
+.title-blog a {
+    color: #231e1e;
+    font-size: 18px;
+    max-height: 53px;
+    min-height: 37px;
+    display: -webkit-box;
+    line-height: 22px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+}
+
+/* List Room CSS update 18/01/2021 */
+#list_section {
+    border-radius: 3px;
+    background: #fff;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
+    padding: 25px 15px 25px;
+    /* padding: 15px 16px 15px 10px; */
+}
+
+#list_section .heading_h1 {
+    font-size: 30px;
+    font-weight: 700;
+    color: #4e5860;
+    margin-top: 0px;
+}
+
+#list_section .list-group-item .list_img {
+    width: 50px;
+    height: 50px;
+    border-radius: 2px;
+    margin-right: 12px;
+}
+
+#list_section .list-group-item .list_img img {
+    width: 100%;
+    height: 100%;
+}
+
+#list_section .list-group-item h2 {
+    font-size: 14px;
+    color: #2c3e50;
+    margin-bottom: 2px;
+    margin-top: 0px;
+}
+
+#list_section .list-group-item a {
+    color: #2c3e50;
+}
+
+#list_section .list-group-item h2 a:hover {
+    color: #f63 !important;
+    text-decoration: underline;
+}
+
+#list_section .list-media-card-subtitle {
+    font-size: 0.8em;
+    margin-bottom: 0;
+    margin-top: 0;
+    color: #666769;
+    font-weight: 400;
+}
+
+.list-group {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    padding-left: 0;
+    margin-bottom: 0;
+}
+
+#list_section .list-group-flush .list-group-item {
+    padding-left: 0px !important;
+    padding-top: 9px;
+    padding-bottom: 9px;
+    border-top: 1px solid #ddd;
+    border-bottom: none;
+}
+
+#list_section .list-group-item {
+    border-color: #f2f2f2;
+}
+
+.list-group-flush .list-group-item {
+    border-right: 0;
+    border-left: 0;
+    border-radius: 0;
+}
+
+#list_section .list-group-item .count_list {
+    color: #bcbcbc;
+    display: inline-block;
+    vertical-align: middle;
+    font-weight: 400;
+    padding: 0px 20px 0px 13px;
+}
+
+.list-media {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: start;
+    -ms-flex-align: start;
+    align-items: flex-start;
+}
+
+.list-media-body {
+    -webkit-box-flex: 1;
+    -ms-flex: 1;
+    flex: 1;
+}
+
+.custom-d-flex {
+    display: -webkit-box !important;
+    display: -ms-flexbox !important;
+    display: flex !important;
+}
+
+.content-align-self-center {
+    -ms-flex-item-align: center !important;
+    align-self: center !important;
+}
+
+@media only screen and (max-width: 700px) {
+    #list_section .heading_h1 {
+        font-size: 18px;
+    }
+}
+
+.h1,
+h1 {
+    font-size: 30px !important;
+}
+
+.h2,
+h2 {
+    font-size: 24px !important;
+}
+
+.h3,
+h3 {
+    font-size: 20px !important;
+}
